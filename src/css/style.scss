@@ -1,0 +1,12 @@
+.content {
+  // width: 100vw;
+  max-width: 100vw;
+  overflow-x: scroll;
+  .table {
+    max-width: 100vw;
+  }
+  .table tr th {
+    padding: 10px;
+    text-align: left;
+  }
+}
